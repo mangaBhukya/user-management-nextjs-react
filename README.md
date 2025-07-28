@@ -33,5 +33,10 @@ This is a simple frontend project built using **Next.js**, **React**, and **Tail
     
 Open http://localhost:3000 in your browser
 
+## Sign-Up Page
+
+You can access the Sign-Up page at: [http://localhost:3000/signUp](http://localhost:3000/signUp)
+
+
 
 
